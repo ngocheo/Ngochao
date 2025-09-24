@@ -1,0 +1,14 @@
+{
+    "admin_bot": [
+        "2162249954664501471",
+        "6756066041067279164"
+    ],
+    "high_level_admins": [
+        "2162249954664501471"
+    ],
+    "allowed_thread_ids": [],
+    "autojoin_enabled": true,
+    "welcome": {
+        "1076288190018120977": true
+    }
+}
