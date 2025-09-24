@@ -1,0 +1,916 @@
+2025-09-20 11:04:31,817 - [AUTOJOIN] - ERROR - Lỗi khi đọc failed_links.json: Expecting value: line 1 column 1 (char 0)
+2025-09-20 11:08:47,724 - [AUTOJOIN] - ERROR - Lỗi khi đọc failed_links.json: Expecting value: line 1 column 1 (char 0)
+2025-09-20 11:08:55,394 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:55,398 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:55,399 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:55,609 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:55,611 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:55,613 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:59,766 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:59,768 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:59,768 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:59,859 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:59,860 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:08:59,861 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:12,209 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:12,211 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:12,212 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,048 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,051 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,054 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,083 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,084 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,085 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,107 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,108 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,109 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,330 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,331 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:13,331 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:17,999 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:18,000 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:18,000 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:25,536 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:25,536 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:25,537 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:26,205 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:26,207 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:09:26,208 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: 'dict' object has no attribute 'add'
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 149, in process_message_for_autojoin
+    processed_message_ids.add(mid)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'add'
+2025-09-20 11:15:44,679 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-20 11:15:53,798 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/gnzirz598 (source thread_id=1796211802186365491, thread_type=ThreadType.GROUP)
+2025-09-20 11:15:54,132 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-20 11:15:54,153 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: name 'random' is not defined
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 230, in process_message_for_autojoin
+    time.sleep(random.uniform(0.05, 0.2))  # Giảm delay giữa các reply
+               ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+2025-09-20 11:15:54,187 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/gnzirz598 (source thread_id=1796211802186365491, thread_type=ThreadType.GROUP)
+2025-09-20 11:15:54,653 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-20 11:15:54,669 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: name 'random' is not defined
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 230, in process_message_for_autojoin
+    time.sleep(random.uniform(0.05, 0.2))  # Giảm delay giữa các reply
+               ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+2025-09-20 11:17:15,808 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-20 11:17:30,053 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/hlreon916 (source thread_id=4015584506969325892, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:37,200 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/hlreon916 (source thread_id=1781361280539765830, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:37,265 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/wsfplw513 (source thread_id=8188381960799477596, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:37,269 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/mtasnh172 (source thread_id=8188381960799477596, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:37,278 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/hixhxo269 (source thread_id=8188381960799477596, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:38,573 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/hlreon916 (source thread_id=728461771852159714, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:41,064 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/lhqfks567 (source thread_id=4456328931328223526, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:41,078 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/jdszlv406 (source thread_id=4456328931328223526, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:41,082 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/tjcugu168 (source thread_id=4456328931328223526, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:41,083 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/lznrsi699 (source thread_id=4456328931328223526, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:47,653 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/gpttoi110 (source thread_id=36225355229695102, thread_type=ThreadType.GROUP)
+2025-09-20 11:17:50,488 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-20 11:18:00,737 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/rtwpwg844 (source thread_id=1482146318119537007, thread_type=ThreadType.GROUP)
+2025-09-20 11:18:02,480 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/hlreon916 (source thread_id=8746918373746153117, thread_type=ThreadType.GROUP)
+2025-09-20 11:18:08,582 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/hlreon916 (source thread_id=4961688801228231461, thread_type=ThreadType.GROUP)
+2025-09-20 11:18:15,739 - [AUTOJOIN] - INFO - Thử tham gia nhóm từ link: https://zalo.me/g/hlreon916 (source thread_id=4456328931328223526, thread_type=ThreadType.GROUP)
+2025-09-20 11:22:05,560 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 05:37:55,483 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 05:39:32,412 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 05:40:12,372 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:40:14,513 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:40:19,380 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:40:28,305 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:40:31,049 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:40:42,071 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:40:44,442 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:40:51,620 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:40:51,654 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: name 'random' is not defined
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 230, in process_message_for_autojoin
+    time.sleep(random.uniform(0.05, 0.2))  # Giảm delay giữa các reply
+               ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+2025-09-21 05:41:00,254 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:41:00,335 - [AUTOJOIN] - ERROR - Lỗi trong process_message_for_autojoin: name 'random' is not defined
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 230, in process_message_for_autojoin
+    time.sleep(random.uniform(0.05, 0.2))  # Giảm delay giữa các reply
+               ^^^^^^
+NameError: name 'random' is not defined. Did you forget to import 'random'
+2025-09-21 05:41:04,493 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:41:27,018 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:41:28,574 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:41:31,982 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:41:45,221 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:42:01,310 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:42:06,028 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:42:09,828 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:42:15,276 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:42:23,784 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:43:26,560 - [AUTOJOIN] - ERROR - Lỗi không mong muốn khi gọi client.joinGroup: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 1430, in getresponse
+    response.begin()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/util.py", line 38, in reraise
+    raise value.with_traceback(tb)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 1430, in getresponse
+    response.begin()
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/http/client.py", line 300, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 105, in try_autojoin_from_link
+    join_response = client.joinGroup(link)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 4066, in joinGroup
+    response = self._post(
+               ^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 61, in _post
+    return self._state._post(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_state.py", line 50, in _post
+    sessionObj = cls._session.post(*args, **kwargs, headers=cls._headers, cookies=cls._cookies)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 659, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-21 05:43:28,510 - [AUTOJOIN] - ERROR - Lỗi không mong muốn khi gọi client.joinGroup: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/getlg/v4?zpw_ver=645&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6fe9a02ba0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x6fe9a02ba0>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/getlg/v4?zpw_ver=645&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6fe9a02ba0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 110, in try_autojoin_from_link
+    all_groups = client.fetchAllGroups()
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 538, in fetchAllGroups
+    response = self._get("https://tt-group-wpa.chat.zalo.me/api/group/getlg/v4", params=params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 58, in _get
+    return self._state._get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_state.py", line 45, in _get
+    sessionObj = cls._session.get(*args, **kwargs, headers=cls._headers, cookies=cls._cookies)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 677, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/getlg/v4?zpw_ver=645&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6fe9a02ba0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-09-21 05:43:27,956 - [AUTOJOIN] - ERROR - Lỗi không mong muốn khi gọi client.joinGroup: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/getlg/v4?zpw_ver=645&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x703bcd8dd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x703bcd8dd0>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/getlg/v4?zpw_ver=645&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x703bcd8dd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 110, in try_autojoin_from_link
+    all_groups = client.fetchAllGroups()
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 538, in fetchAllGroups
+    response = self._get("https://tt-group-wpa.chat.zalo.me/api/group/getlg/v4", params=params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 58, in _get
+    return self._state._get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_state.py", line 45, in _get
+    sessionObj = cls._session.get(*args, **kwargs, headers=cls._headers, cookies=cls._cookies)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 677, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/getlg/v4?zpw_ver=645&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x703bcd8dd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-09-21 05:43:28,589 - [AUTOJOIN] - ERROR - Lỗi không mong muốn khi gọi client.joinGroup: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/link/join?zpw_ver=648&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70148bb050>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x70148bb050>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/link/join?zpw_ver=648&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70148bb050>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 105, in try_autojoin_from_link
+    join_response = client.joinGroup(link)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 4066, in joinGroup
+    response = self._post(
+               ^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 61, in _post
+    return self._state._post(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_state.py", line 50, in _post
+    sessionObj = cls._session.post(*args, **kwargs, headers=cls._headers, cookies=cls._cookies)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 677, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/link/join?zpw_ver=648&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x70148bb050>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-09-21 05:43:28,430 - [AUTOJOIN] - ERROR - Lỗi không mong muốn khi gọi client.joinGroup: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/getlg/v4?zpw_ver=645&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6fe99bdf10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x6fe99bdf10>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/getlg/v4?zpw_ver=645&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6fe99bdf10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 110, in try_autojoin_from_link
+    all_groups = client.fetchAllGroups()
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 538, in fetchAllGroups
+    response = self._get("https://tt-group-wpa.chat.zalo.me/api/group/getlg/v4", params=params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 58, in _get
+    return self._state._get(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_state.py", line 45, in _get
+    sessionObj = cls._session.get(*args, **kwargs, headers=cls._headers, cookies=cls._cookies)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 677, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/getlg/v4?zpw_ver=645&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6fe99bdf10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-09-21 05:43:28,680 - [AUTOJOIN] - ERROR - Lỗi không mong muốn khi gọi client.joinGroup: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/link/join?zpw_ver=648&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6fddbe7e30>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x6fddbe7e30>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/link/join?zpw_ver=648&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6fddbe7e30>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 105, in try_autojoin_from_link
+    join_response = client.joinGroup(link)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 4066, in joinGroup
+    response = self._post(
+               ^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 61, in _post
+    return self._state._post(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_state.py", line 50, in _post
+    sessionObj = cls._session.post(*args, **kwargs, headers=cls._headers, cookies=cls._cookies)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 677, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/link/join?zpw_ver=648&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x6fddbe7e30>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-09-21 05:43:28,266 - [AUTOJOIN] - ERROR - Lỗi không mong muốn khi gọi client.joinGroup: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/link/join?zpw_ver=648&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x700a9e50d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x700a9e50d0>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/link/join?zpw_ver=648&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x700a9e50d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/storage/emulated/0/haobotvip/haobotvip/modules/autojoin/autojoin.py", line 105, in try_autojoin_from_link
+    join_response = client.joinGroup(link)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 4066, in joinGroup
+    response = self._post(
+               ^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_client.py", line 61, in _post
+    return self._state._post(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/haobotvip/haobotvip/zlapi/_state.py", line 50, in _post
+    sessionObj = cls._session.post(*args, **kwargs, headers=cls._headers, cookies=cls._cookies)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.12/site-packages/requests/adapters.py", line 677, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='tt-group-wpa.chat.zalo.me', port=443): Max retries exceeded with url: /api/group/link/join?zpw_ver=648&zpw_type=30 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x700a9e50d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+2025-09-21 05:43:36,861 - [AUTOJOIN] - WARNING - ⚠️ Đã gửi yêu cầu join nhưng chưa thấy nhóm trong danh sách (có thể chờ duyệt).
+2025-09-21 05:44:57,266 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 05:50:33,748 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 05:50:50,378 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 05:52:19,960 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 05:53:47,915 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 05:55:54,211 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 05:57:31,232 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 06:00:46,241 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 06:02:58,285 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 06:05:59,779 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 06:30:42,367 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 07:10:22,738 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 07:29:59,075 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 07:33:42,041 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 07:36:30,510 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 07:38:28,680 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:15:58,597 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:18:50,944 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:22:58,676 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:25:01,878 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:25:43,521 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:47:31,133 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:49:10,881 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:50:12,650 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:50:38,359 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:51:10,873 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:51:42,773 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:52:13,331 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:52:51,887 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 08:53:54,692 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:10:41,867 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:11:39,058 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:13:36,365 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:13:57,213 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:25:06,730 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:27:26,439 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:28:08,212 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:30:36,186 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:35:08,903 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:36:00,174 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:39:40,283 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:40:43,491 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:42:25,959 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:49:21,663 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 09:50:17,957 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:05:41,085 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:10:39,238 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:19:23,850 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:24:47,543 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:26:37,832 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:27:04,162 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:29:24,710 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:39:29,123 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:40:12,240 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:44:36,743 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:45:49,638 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:46:53,628 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:47:16,135 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:49:09,497 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:49:49,838 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:51:06,306 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:54:05,662 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:55:21,045 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 10:56:58,720 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 11:00:41,496 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 11:15:48,516 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 11:16:32,021 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 11:19:58,187 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 11:23:06,501 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 11:25:21,514 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 11:27:21,941 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 11:28:55,850 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 11:31:00,579 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 11:31:43,068 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 12:00:04,870 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 13:56:08,866 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 13:58:44,701 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 13:59:37,336 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:00:21,429 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:10:47,662 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:17:01,103 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:21:59,325 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:27:00,975 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:30:08,505 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:30:20,304 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:30:28,340 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:32:38,144 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:33:45,323 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:35:14,361 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:37:37,931 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:38:15,910 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:39:09,389 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:39:54,660 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:41:57,643 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:43:21,555 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:44:36,956 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:47:10,315 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:49:01,747 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:50:50,438 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:52:50,813 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:54:17,373 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:54:57,554 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:57:19,525 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 14:59:00,790 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 15:00:49,569 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 15:02:06,686 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 15:03:10,476 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 15:04:03,923 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-21 15:04:59,396 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-22 11:18:50,823 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-22 11:20:10,385 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-22 11:24:48,472 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-22 15:20:21,271 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-22 15:21:45,858 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-22 15:23:05,389 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-24 08:47:35,022 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-24 08:51:08,199 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-24 08:54:07,931 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-24 08:55:10,445 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-24 09:01:54,986 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-24 09:03:16,653 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-24 09:08:28,311 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-24 09:15:37,576 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
+2025-09-24 09:18:22,683 - [AUTOJOIN] - INFO - Đã tải 0 link thất bại từ failed_links.json
